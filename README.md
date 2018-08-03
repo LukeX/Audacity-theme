@@ -8,3 +8,6 @@ It's a dark theme for audacity
   Linux: ~/.audacity-data/
 
 2.In Audacity, in Edit->Preferences->Interface, choose "Custom".
+
+
+![theme preview](http://wx2.sinaimg.cn/large/82f3a980gy1ftwgyzsrz6j20yg0ip3yx.jpg)

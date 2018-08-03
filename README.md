@@ -1,13 +1,15 @@
 # Audacity-themes
 It's a dark theme for Audacity  
+---
 这是一个给Audacity用的暗色像素主题。  
+
 
 1.Place your modified .png file in Audacity's folder for application data.  
   把.png文件放入以下路径:  
 
-Windows: Users\<username>\AppData\Roaming\Audacity\Theme  
-Mac: ~/Library/Application Support/audacity/Theme  
-Linux: ~/.audacity-data/Theme  
+    Windows: Users\<username>\AppData\Roaming\Audacity\Theme  
+    Mac: ~/Library/Application Support/audacity/Theme  
+    Linux: ~/.audacity-data/Theme  
  
  
 2.In Audacity, in Edit->Preferences->Interface, choose "Custom".  

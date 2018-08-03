@@ -1,4 +1,4 @@
-# Audacity-themes
+# Audacity-theme
 ### It's a dark theme for Audacity 2.2.2  
 这是一个给Audacity 2.2.2用的暗色像素主题。  
 

@@ -14,4 +14,10 @@
 ### In Audacity, in Edit->Preferences->Interface, choose "Custom".  
   在Audacity菜单中，编辑 -> 偏好设置 -> 界面，更改主题为 “自定义” 。   
 
-![theme preview](http://wx2.sinaimg.cn/large/82f3a980gy1ftwgyzsrz6j20yg0ip3yx.jpg)
+Theme 1:  
+  
+![theme preview](http://wx2.sinaimg.cn/large/82f3a980gy1ftwgyzsrz6j20yg0ip3yx.jpg)  
+  
+Theme 2:  
+  
+![theme preview](http://wx2.sinaimg.cn/large/82f3a980gy1fu8dzmv94aj210e0k13z7.jpg)
